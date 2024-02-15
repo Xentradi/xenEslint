@@ -10,5 +10,13 @@
     "esLint"
   ],
   "author": "Xentradi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xentradi/xenEslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xentradi/xenEslint/issues"
+  },
+  "homepage": "https://github.com/Xentradi/xenEslint#readme"
 }
